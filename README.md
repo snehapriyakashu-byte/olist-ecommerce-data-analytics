@@ -71,10 +71,10 @@ SQL was used to analyze sales performance, customer behavior, product performanc
 - Encourage repeat purchases through customer retention strategies.
 - Monitor late deliveries and identify opportunities to improve logistics.
 - Track customer reviews to identify areas for service improvement.
+  
+## Power BI Dashboard
 
-  ## Power BI Dashboard
-
-[Download / Open Power BI Dashboard](https://drive.google.com/file/d/1DAFCxzGfZShBx41lDKDxSfNrd_g6bPst/view?usp=drive_link)
+[Open Power BI Dashboard](https://drive.google.com/file/d/1DAFCxzGfZShBx41lDKDxSfNrd_g6bPst/view?usp=drive_link)
 
 ## Project Files
 
